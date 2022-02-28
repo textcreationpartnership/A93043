@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the reverend clergy of the Diocese of York</title>
+            <author>Sharp, John, 1645-1714.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93043</idno>
+            <idno type="STC">Wing S3004A</idno>
+            <idno type="STC">ESTC R42921</idno>
+            <idno type="EEBO-CITATION">38875945</idno>
+            <idno type="OCLC">ocm 38875945</idno>
+            <idno type="VID">152370</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93043)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152370)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2294:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the reverend clergy of the Diocese of York</title>
+                  <author>Sharp, John, 1645-1714.</author>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Charles Bill, and the Executrix of Thomas Newcomb, deceas'd ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Signed on p. 3: March 14th 1699. J. Ebor.</note>
+                  <note>Reproduction of original in: Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Charities --  Early works to 1800.</term>
+               <term>Charities --  England.</term>
+               <term>Persecution --  Early works to 1800.</term>
+               <term>Protestants --  France.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:152370:1" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:152370:1" rendition="simple:additions"/>
+            <head>To the Reverend the Clergy of the Dioeceſe of <hi>York.</hi>
+            </head>
+            <opener>
+               <salute>REVEREND BRETHREN,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>OU will herewith Receive His Majeſties Brief, for the Relief of many Thouſands of our Poor Brethren that are in Extreme Want and Miſery: Whoſe Suffer<g ref="char:EOLhyphen"/>ings being wholly occaſion'd by their Conſcientious Adherence to the Proteſtant Religion, we thought it would become us to ſend with it our earneſt Deſire, that you would, both in publick and private, Stir up the People under your Charge, to a Liberal Contribution.</p>
+            <p>We cannot but tell you, It is expected from us by all our Proteſtant Brethren Abroad; who indeed have Set us a noble Example, in the large Contributions they have already made, in their reſpective Churches and States. And it will appear very ſtrange, if the Church of <hi>England,</hi> that hath always been Reputed the <hi>Pillar</hi> of the Proteſtant Cauſe, ſhould not Signalize her Zeal for it, on ſo preſſing an Occaſion.</p>
+            <p>We Deſire you therefore (as well for the Ho<g ref="char:EOLhyphen"/>nour of our Church, as out of a Chriſtian Concern for our Suffering Brethren) to endea<g ref="char:EOLhyphen"/>vour, both by your Example and Exhortations, that this Gathering be a publick Teſtimony of our Zeal for the true Religion, and bear ſome
+<pb n="2" facs="tcp:152370:2"/>Proportion to the Number and Neceſſities of thoſe who are now Proſecuted for it. To this End, It will be convenient, That you repreſent to your ſeveral Congregations, the <hi>Greatneſs</hi> of this Calamity in all its Circumſtances: Of which they will have a more lively Senſe and Fellow-feeling, if you put them in mind of their <hi>own</hi> Terrors and Apprehenſions of Miſery, while we were in Danger of being brought under the Scourge of that Cruel Religion. And this will naturally lead you to Suggeſt to them, their Obligations to Comfort thoſe poor Creatures, who now <hi>Suffer</hi> what we formerly <hi>Fear'd</hi> with ſo much Uneaſineſs. Our Liberality on this Sad Occaſion, will be the propereſt Expreſſion of our Thankfulneſs for that Deliverance; as well as the moſt effectual Means of Prevailing with God to Continue to us the quiet Enjoyment of our Religion.</p>
+            <p>It is at this time, an Opinion induſtriouſly Propagated in ſome of the Popiſh Countries, that we are here Perſecuting their Brethren with the utmoſt Severity; and the <hi>Prieſts</hi> are exceed<g ref="char:EOLhyphen"/>ing diligent in raiſing Contributions for their Relief. How groundleſs an Aſperſion this is on His Majeſties gracious Government, we all know and ſee: But this Uſe however we ought to make of it, That if they are thus ready to Support <hi>their</hi> Brethren, when there is ſo little Occaſion for it; much more Zealous ſhould we be in Relieving <hi>Ours,</hi> who are actually Gro<g ref="char:EOLhyphen"/>ning under a moſt heavy Perſecution; for which their very Enemies pretend no other Reaſon
+<pb n="3" facs="tcp:152370:2" rendition="simple:additions"/>but their Stedfaſtneſs in the Proteſtant Reli<g ref="char:EOLhyphen"/>gion.</p>
+            <p>Theſe things being Conſider'd, and what elſe will naturally occur to you; we doubt not, you will do your utmoſt to Stir up the Charity of your People, not only by your Godly Exhor<g ref="char:EOLhyphen"/>tations, but alſo by giving Liberally your ſelves, according to your reſpective Abilities.</p>
+            <p>We heartily Recommend you, and your Pious La<g ref="char:EOLhyphen"/>bours, to the Bleſſing of Almighty God, and Remain</p>
+            <closer>
+               <dateline>
+                  <date>March 14<hi rend="sup">th</hi> 1699.</date>
+               </dateline>
+               <signed>Your Loving Brother, J. Ebor.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Charles Bill,</hi> and the Executrix of <hi>Thomas Newcomb</hi> deceas'd, Printers to the Kings moſt Excellent Majeſty. 1699.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
